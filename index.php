@@ -8,6 +8,6 @@
 <p>Test GIT.</p>
 <p>Seconda aggiunta</p>
 2.28<br />
-2:35 local
+2:33 server
 </body>
 </html>
